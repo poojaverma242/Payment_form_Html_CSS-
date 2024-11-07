@@ -1,2 +1,2 @@
 # Payment_form
-This ia payment form using html and css
+This is a payment form using html and css
